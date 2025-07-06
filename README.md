@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.6%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Telethon Version](https://img.shields.io/pypi/v/telethon?color=blue&label=Telethon&logo=python)](https://pypi.org/project/telethon/)
 [![Pyrogram Version](https://img.shields.io/pypi/v/pyrogram?color=orange&label=Pyrogram&logo=python)](https://pypi.org/project/pyrogram/)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 [![Telegram](https://img.shields.io/badge/Telegram-@ziddev-0088cc?logo=telegram)](https://t.me/ziddev)
 [![GitHub Repo Size](https://img.shields.io/github/repo-size/ZidanAlfarizaPutraPratama/Telegram-String-Session-Generator?color=informational)](https://github.com/ZidanAlfarizaPutraPratama/Telegram-String-Session-Generator)
 
