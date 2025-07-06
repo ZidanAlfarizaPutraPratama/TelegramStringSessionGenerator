@@ -4,7 +4,7 @@
 [![Telethon Version](https://img.shields.io/pypi/v/telethon?color=blue&label=Telethon&logo=python)](https://pypi.org/project/telethon/)
 [![Pyrogram Version](https://img.shields.io/pypi/v/pyrogram?color=orange&label=Pyrogram&logo=python)](https://pypi.org/project/pyrogram/)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
-[![Telegram](https://img.shields.io/badge/Telegram-@ziddev-0088cc?logo=telegram)](https://t.me/paradoxtrines)
+[![Telegram](https://img.shields.io/badge/Telegram-@zidanAlfarizaPutraPratama-0088cc?logo=telegram)](https://t.me/paradoxtrines)
 [![GitHub Repo Size](https://img.shields.io/github/repo-size/ZidanAlfarizaPutraPratama/TelegramStringSessionGenerator?color=informational)](https://github.com/ZidanAlfarizaPutraPratama/TelegramStringSessionGenerator)
 
 Generate **Telethon** and **Pyrogram v2.x** string sessions quickly and easily from your terminal.
