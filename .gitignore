@@ -1,0 +1,24 @@
+# Abaikan folder virtual environment
+python/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# File log
+*.log
+
+# File konfigurasi lokal
+.env
+
+# Folder build dan dist (jika pakai packaging)
+build/
+dist/
+
+# File database lokal
+*.sqlite3
+
+# IDE/editor configs (contoh VSCode, PyCharm)
+.vscode/
+.idea/
